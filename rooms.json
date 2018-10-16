@@ -1,0 +1,56 @@
+[
+	{
+		"title": "Entrance to the Dungeon",
+		"description": "You're at the entrance to the dungeon. Nuff said",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "True"
+	},
+	{
+		"title": "Hallway",
+		"description": "You're at some hallway within the dungeon",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "False"
+	},
+	{
+		"title": "Indoor Lake",
+		"description": "You're at some Lake",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "False"
+	},
+	{
+		"title": "Chasm",
+		"description": "You're at some chasm",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "False"
+	},
+	{
+		"title": "Village",
+		"description": "You're at some village",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "False"
+	},
+	{
+		"title": "Throne Room",
+		"description": "You're at some Throne Room",
+		"hp": "100",
+		"items": "",
+		"enemies": "",
+		"npc": "",
+		"canExit": "False"
+	}
+]

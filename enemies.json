@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Bandit",
+		"description": "You're typical post-apocalyptic bandit, doing his thing.",
+		"hp": "100",
+		"atk": "2",
+		"defe": "2"
+	},
+	{
+		"name": "Beaver",
+		"description": "Snarling, upset beaver just isn't having it today.",
+		"hp": "100",
+		"atk": "2",
+		"defe": "1"
+	}
+]
